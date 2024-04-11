@@ -21,10 +21,12 @@ My interests:
 <li>
   👽Maldev (I suck at here too)
 </li>
-
 <br>
 <br>
 
+<table width="100%"> 
+  <tr>
+<td width="50%">
 
 <!--
 **ChaoNEil/ChaoNEil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
