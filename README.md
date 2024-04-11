@@ -28,7 +28,6 @@ My interests:
   <tr>
 <td width="50%">
 
-<br><p align="center"> 
 <br><br>HackTheBox profile: https://app.hackthebox.com/profile/1277083
 <br><br>TryHackme profile: https://tryhackme-badges.s3.amazonaws.com/ChaoNEil.png)](https://tryhackme.com/p/ChaoNEil)
 
