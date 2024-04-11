@@ -29,7 +29,8 @@ My interests:
 <td width="50%">
 
 <br><p align="center">HackTheBox/TryHackme profiles
-<script src="https://tryhackme.com/badge/513484"></script>
+<br><br> [![HackTheBox](https://app.hackthebox.com/profile/1277083)
+<br><br> [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ChaoNEil.png)](https://tryhackme.com/p/ChaoNEil)
 
 <!--
 **ChaoNEil/ChaoNEil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
