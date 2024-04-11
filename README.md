@@ -32,8 +32,8 @@ My interests:
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/chao-neil-aryan-borgohain-264724175/)
   <br><br>[![Twitter Follow](https://img.shields.io/twitter/follow/manash036?style=social)](https://twitter.com/NBorgan)
 </p>
-  </td>
-  </table>
+  
+ 
 
 <!--
 **ChaoNEil/ChaoNEil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
