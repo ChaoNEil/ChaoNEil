@@ -24,9 +24,7 @@ My interests:
 <br>
 <br>
 
-<table width="100%"> 
-  <tr>
-<td width="50%">
+
 
 <br><br>HackTheBox profile: https://app.hackthebox.com/profile/1277083
 
