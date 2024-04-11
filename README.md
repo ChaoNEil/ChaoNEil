@@ -1,8 +1,6 @@
 ### Hi there, I'm Chao Neil👋
 
-<div>
-  Username: <code>██████████████</code>
-</div>
+
 <br>
 Following the way of the blue amidst the vast domain of infosec. Sometimes I play CTFs too.
 <br>
