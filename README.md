@@ -10,16 +10,16 @@ Following the way of the blue amidst the vast domain of infosec. Sometimes I pla
 <br>
 My interests:
 <li>
-  Blue Teaming
+  🛡️Blue Teaming
 </li>
 <li>
-  Malware analysis
+  🕷️Malware analysis
 </li>
 <li>
-  Reverse Engineering (I suck at it)
+  🛠️Reverse Engineering (I suck at it)
 </li>
 <li>
-  Maldev (I suck at here too)
+  👽Maldev (I suck at here too)
 </li>
 
 <br>
