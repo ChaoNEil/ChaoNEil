@@ -1,4 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Chao Neil👋
+
+<div>
+  Username: <code>██████████████</code>
+</div>
+<br>
+Following the way of the blue amidst the vast domain of infosec. Sometimes I play CTFs too.
+<br>
+
+<br>
+My interests:
+<li>
+  Blue Teaming
+</li>
+<li>
+  Malware analysis
+</li>
+<li>
+  Reverse Engineering (I suck at it)
+</li>
+<li>
+  Maldev (I suck at here too)
+</li>
+
+<br>
+<br>
+
 
 <!--
 **ChaoNEil/ChaoNEil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
