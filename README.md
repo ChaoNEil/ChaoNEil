@@ -1,8 +1,8 @@
-### Hi there, I'm Chao Neil👋
+<h1>Hi there, I'm Chao Neil👋</h1> 
 
 
 <br>
-Following the way of the blue amidst the vast domain of infosec. Sometimes I play CTFs too.
+Following the way of the blue amidst the vast domain of infosec. Sometimes I play CTFs too.✨
 <br>
 
 <br>
